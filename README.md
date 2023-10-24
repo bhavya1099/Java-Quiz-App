@@ -2,7 +2,6 @@
 A simple console-based Java quiz application for creating and taking quizzes.
 
 ## Features
-
 - Interactive console interface for quiz creation and taking.
 - Support for multiple questions with four answer options each.
 - Immediate feedback on the correctness of answers.
