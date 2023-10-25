@@ -8,7 +8,6 @@ A simple console-based Java quiz application for creating and taking quizzes.
 - Calculation and display of the quiz score at the end.
 
 ## Usage
-
 1. **Clone the Repository:**
 2. **Compile and Run:**
 3. **Follow the prompts to create and take a quiz.**
