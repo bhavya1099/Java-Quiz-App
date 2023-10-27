@@ -7,7 +7,7 @@ public class Main {
         int noOfQuestions=5;
         QuizManager qm = new QuizManager(noOfQuestions);
         int result =qm.userResult();
-        System.out.println("----------------------------------");
+        System.out.println("---------------------------------- ");
         System.out.println("Result = "+result);
     }
 }
