@@ -14,7 +14,7 @@ A simple console-based Java quiz application for creating and taking quizzes.
  
 ## Requirements
 
-- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/) installed.
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/) installed. 
 - A code editor or Integrated Development Environment (IDE) for running the Java program.
 
 ## Contributing
